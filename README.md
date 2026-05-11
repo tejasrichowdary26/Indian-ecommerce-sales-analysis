@@ -21,4 +21,4 @@ https://public.tableau.com/app/profile/guntipally.teja.sri/viz/IndianEcommercesa
 
 ##Files
 >salesanalysis.sql- all sql queries used
->ecommerce_analysis.xlsx- Excel pivot tables and charts
+>commerce_analysis.xlsx- Excel pivot tables and charts
